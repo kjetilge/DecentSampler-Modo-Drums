@@ -1,7 +1,7 @@
 # DecentSampler-Modo-Drums
-Some GM drum samples I've made using MODO drum
+Some GM drum samples I've made using MODO drum as source.
 Here is a link to the patches/samples: [DecentPatches](https://www.jottacloud.com/s/2808382b0e52daa4ceca4a273a448d0a12f)
-THe patches typically has 7 velocity layers and 3 round robin groups
+The patches typically has 7 velocity layers and 3 round robin groups
 ##The code looks something like the below
 
 ```
@@ -22,7 +22,7 @@ THe patches typically has 7 velocity layers and 3 round robin groups
   </groups>
 </DecentSampler>
 ```
-I've also implementet silencing opn hi-hats:
+I've also implementet silencing open hi-hats:
 ```
       <sample path="RefRockV7R3-G#1-V24-PLP3.aif" tags="hihat" silencedByTags="hihat" silencingMode="fast" rootNote="44" loNote="44"
               hiNote="44" loVel="0" hiVel="24" start="202" end="19887"/>
