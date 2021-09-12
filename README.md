@@ -4,7 +4,7 @@ Here is the link to the patches/samples:
 [Shared DecentPatches](https://www.jottacloud.com/s/2808382b0e52daa4ceca4a273a448d0a12f)
 
 The patches typically has 7 velocity layers and 3 round robin groups
-##The code looks something like the below
+## The code looks something like the below
 
 ```
 <DecentSampler pluginVersion="1">
@@ -24,7 +24,8 @@ The patches typically has 7 velocity layers and 3 round robin groups
   </groups>
 </DecentSampler>
 ```
-I've also implementet silencing open hi-hats:
+
+### I've also implementet silencing open hi-hats:
 ```
       <sample path="RefRockV7R3-G#1-V24-PLP3.aif" tags="hihat" silencedByTags="hihat" silencingMode="fast" rootNote="44" loNote="44"
               hiNote="44" loVel="0" hiVel="24" start="202" end="19887"/>
