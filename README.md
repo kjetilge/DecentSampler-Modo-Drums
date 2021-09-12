@@ -1,6 +1,8 @@
 # DecentSampler-Modo-Drums
 Some GM mapped drum patches I've made using MODO drum as source and Logic`s Autosampler.
-Here is a link to the patches/samples: [DecentPatches](https://www.jottacloud.com/s/2808382b0e52daa4ceca4a273a448d0a12f)
+Here is the link to the patches/samples:
+[Shared DecentPatches](https://www.jottacloud.com/s/2808382b0e52daa4ceca4a273a448d0a12f)
+
 The patches typically has 7 velocity layers and 3 round robin groups
 ##The code looks something like the below
 
